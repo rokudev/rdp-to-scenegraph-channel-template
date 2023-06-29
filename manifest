@@ -6,7 +6,7 @@ build_version=0
 
 mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
 mm_icon_focus_sd=pkg:/images/icon_focus_sd.png
-mm_icon_focus_fhd=pkg:/images/icon_focus_hd.png
+mm_icon_focus_fhd=pkg:/images/icon_focus_fhd.png
 
 bs_libs_required=roku_ads_lib
 
